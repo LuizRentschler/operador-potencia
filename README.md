@@ -1,0 +1,2 @@
+# operador-potencia
+operador potencia
